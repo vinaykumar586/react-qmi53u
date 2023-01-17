@@ -1,0 +1,33 @@
+.prevRound {
+  font-size: 3rem;
+  background: #849dbf;
+  /* color: #fff; */
+  bottom: 76px;
+  cursor: pointer;
+  position: relative;
+  right: 22px;
+  /* position: relative; */
+  /* backdrop-filter: blur(10px); */
+
+  border-radius: 55%;
+  height: 62px;
+  width: 46px;
+  display: inline-block;
+}
+
+.nextRound {
+  font-size: 3rem;
+  background: #849dbf;
+  /* color: #fff; */
+  bottom: 76px;
+  cursor: pointer;
+  position: relative;
+  right: 22px;
+  /* position: relative; */
+  /* backdrop-filter: blur(10px); */
+
+  border-radius: 55%;
+  height: 62px;
+  width: 46px;
+  display: inline-block;
+}
