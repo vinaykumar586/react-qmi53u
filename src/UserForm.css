@@ -1,0 +1,14 @@
+table {
+  border-collapse: collapse;
+  width: 80%;
+  height: 6rem;
+}
+tr,
+th,
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+.addBtn {
+  margin-left: 18%;
+}
