@@ -7,6 +7,7 @@ import UserDetails from './UserDeatils/UserDetails';
 import ProfileTable from './Table/ProfileTable';
 import Carousel from './Carousel/Carousel';
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
+import './App.scss';
 export default function App() {
   let data = [
     {
